@@ -1,5 +1,4 @@
 local AutoChessHelper = {}
-local KostyaUtils = require("KostyaUtils/Utils")
 local size_x, size_y = Renderer.GetScreenSize()
 
 AutoChessHelper.TrigerActiv           = Menu.AddOption({ "Kostya12rus", "AutoChest Helper" }, " - Enable/Disable Script - ", "")
